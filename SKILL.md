@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-silent-author-test
-description: "Ensure code, tests, and comments speak for themselves without the author present." Use this when working on fitzpatrick silent author test.
+description: "Ensure code, tests, and comments speak for themselves without the author present. Use this when working on fitzpatrick silent author test."
 category: "Writing & Communication"
 triggers:
   - "silent author test"
