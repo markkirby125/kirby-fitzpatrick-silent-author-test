@@ -9,7 +9,7 @@ triggers:
   - "eliminate author crutch"
   - "stand alone code"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
